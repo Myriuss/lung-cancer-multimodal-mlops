@@ -1,9 +1,2 @@
-streamlit
-pillow
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.1
-joblib
-opencv-python-headless
-tensorflow==2.16.1
-matplotlib
+libgl1
+libglib2.0-0
