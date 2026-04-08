@@ -146,7 +146,7 @@ with col_right:
 
     if uploaded_file is not None:
         image = Image.open(uploaded_file)
-        st.image(image, caption="Image chargée", use_container_width=True)
+        st.image(image, caption="Image chargée", use_column_width=True)
     else:
         st.info("Ajoute une radio thoracique pour lancer la prédiction.")
     st.markdown('</div>', unsafe_allow_html=True)
