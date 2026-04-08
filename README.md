@@ -61,7 +61,8 @@ lung-cancer-multimodal-mlops/
 ├── predict.py
 ├── models/
 ├── data/
-├── main.ipynb
+├── notebook.ipynb 
+├── train2.ipynb 
 ├── requirements.txt
 └── README.md
 ```
